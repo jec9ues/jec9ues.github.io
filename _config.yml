@@ -94,9 +94,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: jec9ues/jec9ues.github.io # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo_id: R_kgDOLJgdRQ
+    category: Comments
+    category_id: DIC_kwDOLJgdRc4CcsL1
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
